@@ -7,7 +7,7 @@ I'm going to step ouside real quick. Do you need anything?
 - 우리 들어가는 길에 약국에 잠깐 들려도 돼?
 Can we make a quick stop at the pharmacy on our way back?
 = Can we stop by the pharmacy real quick on our way back?
-[stop by] 들르다.
+[stop by] 들르다.  /  make a quick stop
 
 나 (어디)에 잠깐 다녀올께.
 I'm going to make a quick trip to the convenience store.
@@ -18,7 +18,7 @@ I'm going to make a quick trip to the convenience store.
 [make a phone call] : 통화를 하다. / 전화를 걸다.
 
 - 나 점심 먹고 동네 한 바퀴 짧게 산책하고 오려고.
-I'm planning to go for a quick walk around teh block/neighborhood after lunch.
+I'm planning to go for a quick walk around the block/neighborhood after lunch.
 Do you want to go for a drive?
 I need to get some fresh air. : 바람쐬다./ 기분전환 하다.
 
@@ -31,6 +31,9 @@ Can I ask you something real quick?
 get a quick bite (to eat)  : 간단히 먹다.
 Aren't you hungry? Do you want to go out and get a quick bite?
 배 안고파? 나가서 좀 간단히 먹고 올까?
+
+* get(grab) a bite : 간단히 먹다.
+ have a meal : 식사를 하다.
 
 
 <used to>
