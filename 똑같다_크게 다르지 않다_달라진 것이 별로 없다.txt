@@ -1,0 +1,22 @@
+새 모델이 이전 모델이랑 크게 다르지 않아요.
+디자인도 거의 똑같고, 기능이랑 특징면에서도 크게 달라지지 않았고요.
+이전 모델이 처음 나왔을때랑 가격도 똑같아요. 
+약간 더 가볍고 배터리 성능이 살짝 좋아졌는데,  그것 말고는 둘이 거의 똑같아요.
+
+The new model is not very different from the old one.
+It has pretty much the same design.
+And not a lot has changed in terms of the functions and the features.
+It even costs the same as when the old one first came out.
+it's a little lighter and the battery performance is slightly better.
+Other than that, the two are pretty much the same.
+
+
+달라진 것이 거의 없다.  not a lot has changed.
++기능과 특징면에서 (기능과 특징과 관련해서)  :  in terms of 기능과 특징
+
+A랑 B랑 가격이 같다. A and B cost the same.
+A는 B랑 같다. A cost the same as B (when 절)
+
+그것말고는 except that // other than that 
+살짝 : slightly 
+거의 : pretty much  /  more or less
