@@ -10,7 +10,6 @@ I have almost no money saved.  :  저는 모아둔 돈이 거의 하나도 없�
 It was weird. He barely had any photos in his phone.  이상했어. 그는 휴대폰에 사진이 거의 없었어.
 I barely have any memory of childhood.  :  저는 어렸을 때의 기억이 거의 없어요.
 
-
 3. 얼마 없는   have (very) little (불가산) /  few (가산)
    얼마 밖에 없다.  -  only have  /  have only  (가산에서만 쓰임)
 I have very little time. (시간)
@@ -50,3 +49,25 @@ My trainer says that I have too much body fat.
 
 
 
+=== the whole + 명사 ===
+whole : 하나를 통째로
+all : 여러 개/전체를 전부
+
+ex) I ate the whole cake.  : 케이크 하나를 통째로 먹었다.
+I ate teh all cake. : 여래 개의 케이크를 전부 먹었다.
+
+영화 전체를 처음부터 끝까지 봤다.
+I watched all the movie (x)
+I watched the whole movie. (o) 
+
+ <자주쓰는 표현>
+the whole process : 전체 과정
+the whole thing : 그 일 전체 / 그 모든 것
+ex) I don't understand the whole thing. : 나는 그 전체 내용을 이해하지 못했어.
+the whole thing was confusing. : 그 일 전체가 혼란스러웠어.
+
+the whole day : 하루 종일
+the whole night : 밤새도록
+the whole week : 일주일 내내
+the whole story : 이야기 전체
+the whole world : 전 세계
