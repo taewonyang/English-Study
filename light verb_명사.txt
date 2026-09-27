@@ -11,6 +11,28 @@ I'm not feeling well.
 Light verb + 명사
 Take // Make // Have // Give // Do
 
+1.  take -> 노력과 참여하여 원하는 바를 얻는것. 
+
+(어떤 것을 한 곳에서 다른 곳으로) 이동시키다. 가지고 가다.
+He took the book from the shelf. 
+
+(사람을) 데리고 가다.  데러다 주다.
+I'll take you home.
+ex) 내가 차로 너 집에 데려다 줄께.   I'll get a car to take you home.
+
+(음료, 약, 음식 등) 마시다. 먹다.
+ex) 커피를 한 모금 마시다.   take a sip of coffee.   
+ex) 내가 한 모금 마셔도 돼?  Can I take a sip?
+Take a bite.  한 입 먹다.
+
+Take my medicine.  약을 먹다.
+take a shower / bath.  샤워 / 목욕을 하다.
+take a picture  사직을 찍다.
+take a note  노트 필기하다.
+take a class  수업을 듣다.
+take 시간이 걸리다.
+ex) It takes an hour to bake a cake.
+  
 1) take a look. -> 한번보다
 ex) Let me take a quick look at that.
 [잠깐 그거 좀 볼께요.]
@@ -31,20 +53,83 @@ ex) you should take a chance and apply for it.
 ex) he took a big risk starting that business.
 [ 그는 그 사업을 시작하면서 큰 위험을 감수했다.]
 
-6) make a decision -> 결정하다.
+
+2. make  ->  결과에 초점
+do와 비교 -> do는 행동에 초점(일반적인 행동)
+집안일 정리는 대부분 do를 사용함
+ex) do housework,  do chores
+-> make the bed : 침구 정리를 하다.  make your bed,  make my bed.
+
+make breakfast / lunch / dinner 식사 준비
+make coffee / tea   커피/차를 준비하다
+make an appointment : 예약하다.
+make a reservation : (극장,식당 등) 예약하다.
+make time : 시간내다.
+make friends : 친구를 사귀다. 만들다.
+make money : 돈을 벌다.
+make an exception : 예외로 하다.
+make a mistake -> 실수하다.
+ex) I think I made a big mistake.    큰 실수를 한것 같아.
+ex) Did I make a mistake?
+
+make a (phone) call : 연락하다.
+make a decision -> 결정하다.
 ex) we need to make a quick decision. [빠른 결정해야 합니다.]
-
-7) make a mistake -> 실수하다.
-ex) I think I made a big mistake. [ 큰 실수를 한것 같아.]
-
-8) make an effort -> 노력하다.
+make an effort -> 노력하다.
 ex) you need to make a real effort this time. [ 이번에는 진짜 노력해야해.]
-
-9) make an excuse -> 변명하다.
+make an excuse -> 변명하다.
 ex) Stop trying to make excuses. [변명하려고 하지마.]
-
-10) make a difference ->변화를 만들다.
+make a difference ->변화를 만들다.
 ex) That small change can make a big difference. [작은 변화가 큰 차이를 만들수 있어.]
+
+
+3. get   ->  없었는데 획득의 의미.
+have는 소유의 의미.
+
+get a job.  직장을 구하다.  /게러/
+I get + [사람] + [대상] -> [사람]에게 [대상]을 주다.
+ex) 나 너한테 줄 무너가가 있어.   I got you something.   
+ex) 나 너에게 줄 커피 사왔어.   Here, I got you coffee.
+
+get some sleep : 잠 좀 자.
+get some rest :  휴식 좀 취해.
+get a message / an email / text  : 메세지를 받다.
+ex) I didn't get any message.
+get a refund : 환불받다.
+get a discount : 할인 받다.
+ex) I'll get you great discount.  
+
+get to 장소  : 장소에 도착하다.
+ex) get home  /  get there  /  get to work  / get to school 
+ex) 집에 안전하게 도착했어?   Did you get home safe (safely)?
+ex) 나 공항에 도착해야 되는데   I gotta get to the airport.
+
+get : 이해하다. 
+ex) Did you get it? , I got it!
+처리하다.  I got it.
+
+get + 사람 : 붙잡다.
+ex) (저 남자)잡아! (저 남자) 잡아!  get hime ! get him!   /게럼/  /게럼/
+ex) I got her.  /아이가러/
+
+
+
+4. have  -> (소유) 가지고 있다.
+
+have a plan : 계획이 있다.
+have a baby : 출산하다.  
+ex) we're having a baby.  (임신했어요) 출산할 예정이에요. 
+ex) I had a baby  : 출산했어요.
+
+(액션)하다. 경험하다.
+ex) 악몽을 꾸지 않았어.   I didn't have a nightmare. 
+
+아침 / 점심 / 저녁 식사를 하다. have breakfast / lunch / dinner.
+(공적인) 약속이 있다.  have an appointment.  / 어포인먼/
+
+상태나 컨디션을 말할때.
+ex) I have a fever / cold.  
+ex) you have a really good attitude. /애릿튜드/
 
 11) have a chat (talk, discussion, conversation) ->  이야기하다.
 ex) Do you have time to have a quick chat? [잠깐 이야기 할 시간있어?]
