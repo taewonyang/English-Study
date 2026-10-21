@@ -1,10 +1,5 @@
-* spend +시간 + ~ing  : ~하면서 시간을보내다.
-ex) I spend a lot of time taking a walk.
-ex) It takes about half an hour on foot.
-
 * when it come to 명사/~동명사  : ~에 관련해서 말하자면
 * what's the matter? : 무슨일이야?
-
 * what really matter is ~  : 정말 중요한것은 ~이야
 ex) what really matter is who you spend time with
 
@@ -20,6 +15,11 @@ ex) it's hard to believe it took over a thousand years for their light to reach 
 별빛이 우리에게 닿는데 수천 년이 걸린다니.
 
 * there's no time to lose! : 지체할 시간이 없어
+* I'm in my 40s : 40대야.
+* a fear of heights : 고소공포증
+
+~내용 which means 
+it means 
 
 scroll on my phone : (큰 목적없이) 핸드폰을 하다.
 it's been a while since ~  : ~한이래로 오래됐어.
@@ -28,7 +28,7 @@ it's been a while since ~  : ~한이래로 오래됐어.
 what does it look like? 어떻게 생겼어?
 => it's a big hexagon (6각형)
 triangle : 3각형
-square : 정4각형
+square : 정사각형
 rectangle : 직사각형
 hexagaon : 6각형
 octagon : 8각형
@@ -72,11 +72,22 @@ ex) This is way too expensive.  이건 너무 비싸.
 ex) This is way cheaper than that one. 이게 저것보다 훨씬 저렴해.
 ex) it's way better tahn I expected  내가 생각했던 것보다 훨씬 좋아.
 
-8. taht's a shame.  (= that's a pity)
+8. that's a shame.  (= that's a pity)
 아쉽네요. 안타깝네 .
 
 9. Both teams are as good as each other. 두 팀 모두 실력이 똑같이 좋아요.
 
+* spend 시간 +~ing : ~하는데 시간을 쓰다.
+ex) I want to spend my time doing something meaningful.
+ex) I spend a lot of time taking a walk.
+ex) It takes about half an hour on foot.
+
+I'm a spontaneous person.  즉흥적인 사람
+<-> I'm a planner.  계획적인 사람.
+
+lightweight 알쓰  <->  heavy drinker 술고래
+
+That's rude : 실례다.
 * There is nothing I can do about it.
 어쩔수가 없다. 내가 할수 있는게 없어.
 

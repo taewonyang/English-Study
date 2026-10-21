@@ -14,7 +14,6 @@ ex) It's not about money. It's about happiness.
 : 돈이 중요한게 아니라, 행복이 중요한거야.
 
 
-
 <the most annoying part is ~ >
 : 가장 짜증나는 점은 / 가장 불편한 점은 ~이다.
 ex)
@@ -24,9 +23,6 @@ the most annoying part is that wating.
 가장 불편한 점은 기다리는 거야.
 the most annoying part is that I can't control it.
 가장 불편한(짜증나는) 점은 내가 그걸 통제 할수 없다는 거야.
-
-
-
 
 
 1) 과거 사실과 반대되는 가정
@@ -41,6 +37,10 @@ If I had gotten up earlier, I would have caught the train.
 ex) If I lived closer, I would visit you more often. (현재의 가정)
 ex) If I had more time, I would study more.  (현재의 가정)
 : 지금 시간이 더 있다면, 공부를 더 할텐데. (현재의 가정)
+
+ex) If this were possible, people would save a lot of time. (현실 과정)
+이유: 현실과 다른 가정에는 was 대신 were을 씁니다 :)!
+
 <-> 
 ex) If I had studied more, I would have passed. (과거의 가정)
 : 그때(과거에) 공부를 더 했더라면, 합격했을 텐데..
@@ -56,8 +56,6 @@ ex) I wish I had spoken more english yesterday.
 : 어제 영어를 더 많이 말했으면 좋았을 텐데.
 = If I had spoken more english yesterday, I would have felt better about my english.
 : 어제 영어를 더 많이 말했더라면, 내 영어에 대해 더 기분이 좋았을 텐데.
-
-
 
 
 have to : 해야한다.
