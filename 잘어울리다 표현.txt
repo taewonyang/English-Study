@@ -1,25 +1,34 @@
-너 그 머리 스타일 잘 어울린다.
-(사람+사물)
-1. 너가 좋아보인다. + 그 머리스타일과 함게
+1. (사람+사물)
+너가 좋아보인다. + 그 머리스타일과 함게
 You look good with that hairstyle.
 you look good in that jacket. (자켓안에 사람이 있으니까)
 
-2. 머리 스타일이 좋아보인다. +너한테
+머리 스타일이 좋아보인다. +너한테
 That hairstyle looks good on you
 That jacket looks good on you.
 That makeup looks good on you.
 
-너 그 자켓 입으니까 젋어보여.
-That jacket makes you look young.
+That jacket makes you look young.  너 그 자켓 입으니까 젋어보여.
 
 
+2. (사물+사물)  [A goes well with B] [match ]
+
+- go well with  -
 너 머리 스타일이 오늘 옷차림이랑 잘 어울린다.
-(사물+사물)  [A goes well with B]
-Your hairstyle goes (really) well with your outfit today.
+ex) Your hairstyle goes (really) well with your outfit today.
+둘이 잘 맞을 거라고 생각하지 않았어요.
+ex) I didn't expect them to work well together
+- match -
+ex) I wore slacks to see if shoes matched them.
+ex) I didn’t expect a bitter drink and a sweet dessert to match so well.  
 
 
-두 분 너무 잘 어울리세요.(사람+사람)
-you look really good together.
+3. (사람+사람)
+you look really good together.   두 분 너무 잘 어울리세요.
+They're a really good match.  걔네 서로(둘이) 너무 잘 맞는거 같아.
 
-걔네 서로(둘이) 너무 잘 맞는거 같아.
-They're a  really good match.
+<균형이 맞다. 조합이 어울린다.>
+They balance each other well/perfectly  : 서로 균형이 잘 맞아요.
+The combination works realy well  : 이 조합은 정말 잘 맞아요.
+I was surprised by how good it was.  : 생각보다 좋아서 놀랐어요.
+... and ... go surprisingly well together : ~와 ~은 의외로 잘 어울려요.
